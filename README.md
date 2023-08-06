@@ -1,10 +1,9 @@
 # Ejercitacion_2
-Este es el README del punto 1 del ejercicio. 
 
-modified :dvd:
+Este es el README del punto 1 del ejercicio.
 
-staged :calling:
+**modified :dvd:**
 
-commited :floppy_disk:
+_staged :calling:_
 
-
+- commited :floppy_disk:
